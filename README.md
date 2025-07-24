@@ -77,18 +77,13 @@ This project involves comprehensive data analysis and interactive dashboard crea
 ## 🚀 How to Use
 
 1. Clone this repo or download the SQL queries and Power BI `.pbix` file.
-2. Open `Ola_Analysis.sql` in MySQL Workbench to run the queries.
-3. Open `Ola_Dashboard.pbix` in Power BI Desktop to explore the visuals.
+2. Open `Ola.sql` in MySQL Workbench to run the queries.
+3. Open `Ola.pbix` in Power BI Desktop to explore the visuals.
 
 ---
 
 ## 📬 Contact
 
-**Siddhesh Deshmukh**  
-📧 [Your Email]  
-🔗 [LinkedIn Profile]  
-🌐 [Portfolio or GitHub Pages (if any)]
-
----
-
-## ⭐️ If you found this useful, feel free to star this repo and connect with me on LinkedIn!
+Siddhesh Deshmukh 
+📧 vijayd867764@gmail.com  
+🔗 https://www.linkedin.com/in/siddhesh-deshmukh-046455229 
